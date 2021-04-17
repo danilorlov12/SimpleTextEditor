@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Text Editor</string>
+    <string name="app_head">Enter topic</string>
+    <string name="app_text">Enter text</string>
+    <string name="app_add">New entry</string>
+    <string name="app_about">About the application</string>
+    <string name="app_save">Save</string>
+    <string name="app_delete">Delete</string>
+</resources>

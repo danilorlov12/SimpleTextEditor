@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFBF40</color>
+    <color name="colorPrimaryDark">#FFAA00</color>
+    <color name="divider">#FFD073</color>
+    <dimen name="twodp">2dp</dimen>
+</resources>
